@@ -1,0 +1,5 @@
+* @happydemics/backend
+
+/.github/ @happydemics/devops
+.ruby-version @happydemics/devops
+renovate.json @happydemics/devops
